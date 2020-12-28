@@ -12,5 +12,5 @@ SKILLS:
        2.A bit amount of knowledge about Vs code IDE
        3.A bit amount of knowledge about Node.js 
        
-Good luck and have fun
+Good luck and have fun.
        
