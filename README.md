@@ -13,6 +13,8 @@ SKILLS:
 1.A bit amount of knowledge about JavaScript
 2.A bit amount of knowledge about Vs code IDE
 3.A bit amount of knowledge about Node.js 
+
+if you want step by step tutorial here is a link to it:  https://discordjs.guide/#before-you-begin
        
 Good luck and have fun
        
